@@ -1,0 +1,7 @@
+
+===== PYTHON RESTAURANT BILL =====
+Items Ordered: Pizza
+Total: Rs 40
+GST (5%): Rs 2.00
+Final Amount: Rs 42.00
+Date: 2025-12-04 12:10:46.645397
